@@ -14,7 +14,8 @@ Tested on Paper build 26.1.2.
 - Applies potion effects (blindness, slowness, nausea — or whatever you configure)
 - Tracks violations per player and kicks them after a configurable threshold
 - Everything is editable from `config.yml` with live reload via `/chatfilter reload`
-
+<img width="740" alt="2026-07-05_13 27 30" src="https://github.com/user-attachments/assets/47796238-4af7-4fa3-a3be-939bf431f58a" />
+<img width="740" alt="Screenshot_20260705_132740" src="https://github.com/user-attachments/assets/f1d20b10-c199-4b4d-ba02-956e217e048a" />
 ---
 
 ## Installation
