@@ -4,7 +4,7 @@
 
 # Words to block (case-insensitive, automatically lowercased).
 # Note: matching is done on the normalized message (special characters and
-# spaces are stripped), so variations like "a.m.k" or "a m k" will also be caught.
+# spaces are stripped), so variations like "b.a.d" or "b a d" will also be caught.
 # Note: substring matching is used, so if "example" is banned, "exampleword" will also be caught.
 banned-words:
   - "example1"
