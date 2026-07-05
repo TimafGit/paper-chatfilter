@@ -1,0 +1,17 @@
+name: ChatFilter
+version: '${version}'
+main: com.timaf.chatfilter.ChatFilterPlugin
+api-version: '1.21'
+author: Timaf
+description: A chat filter plugin with sound, visual effects, and kick support.
+
+commands:
+  chatfilter:
+    description: ChatFilter management command.
+    usage: /chatfilter reload
+    permission: chatfilter.admin
+
+permissions:
+  chatfilter.admin:
+    description: Allows access to ChatFilter management commands.
+    default: op
