@@ -82,6 +82,10 @@ cd paper-chatfilter
 
 The output jar will be in `build/libs/`.
 
+## Acknowledgements
+
+Developed with the assistance of [Claude](https://claude.ai) (Anthropic).
+
 ---
 
 ## License
